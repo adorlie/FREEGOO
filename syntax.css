@@ -1,0 +1,5 @@
+body {font-family: Arial; background:#eee; margin:0;}
+nav {background:#222; padding:10px;}
+nav a {color:white; margin:10px; text-decoration:none;}
+.container {padding:20px;}
+.card {background:white; padding:10px; margin:10px 0;}
